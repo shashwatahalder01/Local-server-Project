@@ -1,4 +1,6 @@
-1.General information This section explains in general terms the system and the purpose for which it is intended.
+General information 
+
+This section explains in general terms the system and the purpose for which it is intended.
 
 1.1 System Overview
 
